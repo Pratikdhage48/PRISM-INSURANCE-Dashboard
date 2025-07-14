@@ -4,11 +4,11 @@
 
 An interactive and insightful Power BI dashboard designed to analyze insurance customer data—highlighting policy details, demographics, claims, and business trends.
 
-3. Short Description / Purpose
+2. Short Description / Purpose
 
 The PRISM Insurance Dashboard provides a comprehensive view of customer profiles, policy distribution, claim patterns, and region-based performance. It is designed to support decision-making for insurance companies, analysts, and customer service teams by enabling data-driven insights and trends tracking.
 
-5. Tech Stack
+3. Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -18,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 
 🧠 DAX (Data Analysis Expressions) – Implemented to create calculated columns, measures, KPIs, and conditional visuals.
 
-5. Features / Highlights
+4. Features / Highlights
 
 • Business Problem
 
@@ -78,6 +78,6 @@ Enhances data-driven decision-making for operations, marketing, and customer sup
  
  Strategic Planning: Regional insights help identify underperforming zones or high-opportunity segments.
 
- 5. Screenshots 
+5. Screenshots 
 
     ![Dashboard](https://github.com/Pratikdhage48/PRISM-INSURANCE-Dashboard/blob/main/PRISM_Insurance_Dashboard.png)

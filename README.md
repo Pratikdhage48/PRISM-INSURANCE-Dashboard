@@ -78,6 +78,6 @@ Enhances data-driven decision-making for operations, marketing, and customer sup
  
  Strategic Planning: Regional insights help identify underperforming zones or high-opportunity segments.
 
-5. Screenshots 
+5. Dashboard 
 
     ![Dashboard](https://github.com/Pratikdhage48/PRISM-INSURANCE-Dashboard/blob/main/PRISM_Insurance_Dashboard.png)

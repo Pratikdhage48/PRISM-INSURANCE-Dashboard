@@ -49,5 +49,5 @@ Enhances data-driven decision-making for operations, marketing, and customer sup
  Risk Assessment: Analysts can identify high-risk profiles based on claim history and coverage.
  Strategic Planning: Regional insights help identify underperforming zones or high-opportunity segments.
 
- 5. Screenshots
-    
+ 5. Screenshots 
+    ![Dashboard](https://github.com/Pratikdhage48/PRISM-INSURANCE-Dashboard/blob/main/PRISM_Insurance_Dashboard.png)

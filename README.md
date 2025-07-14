@@ -8,11 +8,14 @@ The PRISM Insurance Dashboard provides a comprehensive view of customer profiles
 
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
+
 📊 Power BI Desktop – Core platform used for data modeling, visuals, and interaction.
+
 🔄 Power Query (M Language) – Used to clean, transform, and prepare raw data for modeling.
+
 🧠 DAX (Data Analysis Expressions) – Implemented to create calculated columns, measures, KPIs, and conditional visuals.
 
-4. Features / Highlights
+5. Features / Highlights
 • Business Problem
 Insurance companies often struggle to gain holistic insights into their customer base, claims behavior, and policy effectiveness across different regions. Without intuitive visual tools, making informed strategic decisions can be challenging.
 
